@@ -1,0 +1,1 @@
+/bin/abrt-action-analyze-backtrace,/bin/ab,/bin/abrt-action-analyze-c,/bin/abrt-action-analyze-backtrace,/sbin/abrt-harvest-vmcore,
